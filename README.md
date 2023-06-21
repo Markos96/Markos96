@@ -1,8 +1,7 @@
 <h1 align="center"><b>Hi there, I'm Marcos Solari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
 <p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=100&color=3D2EF7&background=655E6E00&center=true&vCenter=true&width=435&height=70&lines=Welcome+to+my+Github+Profile+!!" alt="Typing SVG" /></a>
