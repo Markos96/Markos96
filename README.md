@@ -77,8 +77,7 @@
 
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![SQL Server](https://camo.githubusercontent.com/2426e3730d150ad9670cb9a3d82f3afd56c95754418646b6874fa764bd92b405/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d6565653f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d656565266c6162656c436f6c6f723d323832383238)
-    
+    ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
     
 <br>
 
@@ -96,10 +95,12 @@
 
 - **Extras**:
 
-    ![GraphQL](https://camo.githubusercontent.com/a6156fb99be25196926ce0affd81a79538f7d3b38ec0b9e0a4bfc7e38b772401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4772617068514c2532302d2532334637444631452e7376673f267374796c653d666f722d7468652d626164676526636f6c6f723d453533354142)
-    ![Docker](https://camo.githubusercontent.com/cc3b711c96c498977e03cdbb424796f510352ba7931128466153aba4b52c6389/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+    ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    ![Microcks](https://img.shields.io/badge/Microcks-FF6F00?style=for-the-badge&logo=microcks&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![ActiveMQ](https://img.shields.io/badge/ActiveMQ-0099CC?style=for-the-badge&logo=apache-activemq&logoColor=white)
+    ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 
 </p>
